@@ -1,0 +1,1 @@
+netsh interface ip set address "Ethernet" static %1 %2 %3 1
